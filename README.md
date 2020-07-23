@@ -1,2 +1,2 @@
 # maszz
-voc gojek ramabna
+voc gojek 
